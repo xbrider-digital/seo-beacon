@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+beacon.config.json
+beacon-fixes/
+*.beacon.json
